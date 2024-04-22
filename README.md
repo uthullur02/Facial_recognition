@@ -1,5 +1,5 @@
 # Facial_recognition
-#Install Jupyter Notebook
+Install Jupyter Notebook
 #Download LFW dataset
 Import weights from folder
 Upload them in the notebook 
