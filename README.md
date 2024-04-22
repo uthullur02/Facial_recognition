@@ -1,6 +1,6 @@
 # Facial_recognition
-Install Jupyter Notebook
-Download LFW dataset
+#Install Jupyter Notebook
+#Download LFW dataset
 Import weights from folder
 Upload them in the notebook 
 Create a folder application_data and files in it namely input_image and verification_image
