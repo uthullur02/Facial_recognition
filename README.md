@@ -1,4 +1,4 @@
-Certainly! Here's the README.md file content for your Git repository based on your instructions:
+
 
 ```markdown
 # Facial Recognition Application
